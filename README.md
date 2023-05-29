@@ -10,4 +10,4 @@ To compile using MSYS2
 1) Clone/fork the Github repo only.
 2) use "make all platform=win"
 
-For best results: use cxd4's RSP plugin. Zilmar's RSP has several LLE GFX bugs.
+For best results: use cxd4's RSP plugin or Parallel RSP plugin. Zilmar's RSP has several LLE GFX bugs.
